@@ -1,16 +1,29 @@
 ## Hi there 👋
 
-<!--
-**Alokit01/Alokit01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there! 👋
 
-Here are some ideas to get you started:
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+A student at NIT Rourkela with a strong interest in Data Analytics.  
+Enjoy working with data, solving problems, and learning tools like Python, SQL, and Power BI.  
+Currently focused on building projects and improving analytical skills.
+
+---
+
+## 💡 My Interests
+- 📊 Data Analytics    
+- 📈 Data Visualization  
+- 🧠 Problem Solving  
+
+---
+
+## 🛠 Skills
+- Python  
+- SQL  
+- Power BI  
+- Excel  
+
+---
+
+
