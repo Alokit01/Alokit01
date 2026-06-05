@@ -64,5 +64,5 @@ Currently, I am focused on strengthening my skills in Machine Learning, Natural 
 
 ## Connect With Me
 
-* GitHub: github.com/Alokit01
+* GitHub: https://github.com/Alokit01
 * LinkedIn: https://www.linkedin.com/in/alokit-raj-sharma-9a2630283/
